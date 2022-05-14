@@ -34,9 +34,9 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "contents/docs/*"
-      - "contents/mkdocs.yml"
+    # paths:
+    #   - "contents/docs/*"
+    #   - "contents/mkdocs.yml"
 
 jobs:
   docs:
