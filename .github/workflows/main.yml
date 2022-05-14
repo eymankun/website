@@ -25,5 +25,8 @@ jobs:
       - name: Install requirements
         run: python3 -m pip install -r requirements.txt
 
+      - name: Configuration before deploy
+        run: git config user.name 'github-actions[bot]' && git config user.email 'github-actions[bot]@users.noreply.github.com'
+
       - name: Deploy 🚀
-        run: python3 -m mkdocs gh-deploy --config-file ./contents/mkdocs.yml
+        run: python3 -m mkdocs gh-deploy --config-file ./contents/mkdocs.yml --force
