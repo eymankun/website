@@ -1,0 +1,47 @@
+---
+site_name: Muhammad Aiman Curriculum Vitae
+site_author: Muhammad Aiman
+site_description: Muhammad Aiman CV
+copyright: Copyright &copy; 2022 Muhammad Aiman
+
+nav:
+  - About Me: index.md
+  - LinkedIn: https://www.linkedin.com/in/muhammad-aiman/" target="_blank
+  - Github: https://www.github.com/eymankun/" target="_blank
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/font
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.github.com/eymankun
+      name: Aiman on Github (eymankun)
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/muhammad-aiman/
+      name: Aiman on LinkedIn
