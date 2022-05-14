@@ -2,6 +2,8 @@
 
 Curriculum Vitae of Muhammad Aiman. Created with mkdocs.
 
+[![deploy cv](https://github.com/eymankun/website/actions/workflows/main.yml/badge.svg)](https://github.com/eymankun/website/actions/workflows/main.yml)
+
 ## Installation
 
 ### with `pip`
@@ -37,5 +39,5 @@ Site files will be inside the `site` directory. Deploy the contents of the `site
 If this code is in Github, Github Pages is the most convenient way to publish this site. Use the following command to deploy:
 
 ```bash
-mkdocs gh-deploy --force
+mkdocs gh-deploy --config-file path/to/mkdocs.yml --force
 ```
