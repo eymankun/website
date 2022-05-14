@@ -1,4 +1,4 @@
-name: deploy cv
+name: build-and-deploy
 
 on:
   push:
