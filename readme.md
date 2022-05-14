@@ -2,8 +2,6 @@
 
 Curriculum Vitae of Muhammad Aiman. Created with mkdocs.
 
-[![Build Status](https://cicd.sunnyrabo.com/api/badges/eymankun/cv/status.svg?ref=refs/heads/main)](https://cicd.sunnyrabo.com/eymankun/cv)
-
 ## Installation
 
 ### with `pip`

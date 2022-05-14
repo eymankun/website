@@ -8,10 +8,6 @@
 
 Name: Muhammad Aiman Bin Abdul Jalil
 
-E-mail:
-
-Tel:
-
 Address: Cyberjaya, Malaysia
 
 - Server and Network Monitoring & Administration.
