@@ -32,26 +32,26 @@ jobs:
       - name: Publish docs
         run: mkdocs gh-deploy --config-file contents/mkdocs.yml
 
-      - name: Test Success
+      - name: Deploy Success
         uses: rjstone/discord-webhook-notify@v1
         if: success()
         with:
           severity: info
-          details: Test Succeeded!
+          details: ✅ Deploy Succeeded!
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
 
-      - name: Test Failure
+      - name: Deploy Failure
         uses: rjstone/discord-webhook-notify@v1
         if: failure()
         with:
           severity: error
-          details: Test Failed!
+          details: ❌ Deploy Failed!
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
 
-      - name: Test Cancelled
+      - name: Deploy Cancelled
         uses: rjstone/discord-webhook-notify@v1
         if: cancelled()
         with:
           severity: warn
-          details: Test Cancelled!
+          details: 🙅🏻‍♂️ Deploy Cancelled!
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
