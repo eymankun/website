@@ -2,16 +2,21 @@
     "version": "0.1",
     "language": "en",
     "words": [
-        "ITIL", "Hitachi", "Ltd"
-    ],
-    "ignoreWords": [
+        "ITIL",
+        "Hitachi",
+        "Ltd",
         "Muhammad",
         "Aiman",
         "bin",
         "Abdul",
-        "Jalil"
+        "Jalil",
+        "Kuala",
+        "Lumpur"
     ],
-    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\      {% .*%\\}", 
+    "ignoreWords": [
+        "mkdocs", "fontawesome"
+    ],
+    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\           {% .*%\\}", 
         "/^\\s*```[\\s\\S]*?^\\s*```/gm", 
         "^---[\\s\\S]*?---$"
     ]

@@ -21,7 +21,7 @@ Challenge variaty of task and skilled troubleshooter in IT field.
 
 ### DXC Technology
 
-ITO Service Delivery Constultant (L3 Support)
+ITO Service Delivery Consultant (L3 Support)
 <span style="float: right;">Nov 2019 - Present</span>
 
 - Oversee system performance, configuration and repair of client servers.
