@@ -1,0 +1,19 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "words": [
+        "ITIL", "Hitachi", "Ltd"
+    ],
+    "ignoreWords": [
+        "Muhammad",
+        "Aiman",
+        "bin",
+        "Abdul",
+        "Jalil"
+    ],
+    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\      {% .*%\\}", 
+        "/^\\s*```[\\s\\S]*?^\\s*```/gm", 
+        "^---[\\s\\S]*?---$"
+    ]
+
+}
