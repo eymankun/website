@@ -30,8 +30,10 @@ ITO Service Delivery Constultant (L3 Support)
 - Managed all security incidents.
 - Created operations manuals, which standardized all procedures enabling rapid and
 - comprehensive training of new staff and newly created operations.
-- Provided competent supervision and monitoring of change request and enforced compliance with change management policy.
-- Take part of RCA (Root Cause Analysis) meetings to find the cause of process problems, and update process manual if necessary.
+- Provided competent supervision and monitoring of
+  change request and enforced compliance with change management policy.
+- Take part of RCA (Root Cause Analysis) meetings to find
+  the cause of process problems, and update process manual if necessary.
 
 ### NTT Digital Business Solutions (fomerly Emerio Malaysia)
 
