@@ -2,6 +2,7 @@
 
 Curriculum Vitae of Muhammad Aiman. Created with mkdocs.
 
+[![housekeeping](https://github.com/eymankun/website/actions/workflows/lint.yml/badge.svg?branch=dev)](https://github.com/eymankun/website/actions/workflows/lint.yml)
 [![build-and-deploy](https://github.com/eymankun/website/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/eymankun/website/actions/workflows/main.yml)
 
 ## Installation
