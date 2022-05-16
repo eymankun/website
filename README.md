@@ -2,13 +2,16 @@
 
 Curriculum Vitae of Muhammad Aiman. Created with mkdocs.
 
+[![housekeeping](https://github.com/eymankun/website/actions/workflows/lint.yml/badge.svg?branch=dev)](https://github.com/eymankun/website/actions/workflows/lint.yml)
 [![build-and-deploy](https://github.com/eymankun/website/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/eymankun/website/actions/workflows/main.yml)
 
 ## Installation
 
 ### with `pip`
 
-Use `pip` to install all required packages inside `requirements.txt`, ideally by using a virtual environment. Install with:
+Use `pip` to install all required packages inside
+`requirements.txt`, ideally by using a virtual environment.
+Install with:
 
 ```bash
 pip install -r requirements.txt
@@ -32,11 +35,14 @@ Build your site files with the command:
 mkdocs build
 ```
 
-Site files will be inside the `site` directory. Deploy the contents of the `site` to web server.
+Site files will be inside the `site` directory.
+Deploy the contents of the `site` to web server.
 
 ## Deploy to Github Pages
 
-If this code is in Github, Github Pages is the most convenient way to publish this site. Use the following command to deploy:
+If this code is in Github, Github Pages is the most
+convenient way to publish this site.
+Use the following command to deploy:
 
 ```bash
 mkdocs gh-deploy --config-file path/to/mkdocs.yml --force

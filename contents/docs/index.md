@@ -10,7 +10,10 @@ Name: Muhammad Aiman Bin Abdul Jalil
 
 Location: Cyberjaya, Malaysia
 
-Multilingual (English, Japanese, Malay) Techincal Support. Strong experience in managing server and application including Server Monitoring, Service Desk Support and Infrastructure (Linux, Windows & MacOS Server). Challenge variaty of task and skilled troubleshooter in IT field.
+Multilingual (English, Japanese, Malay) Techincal Support.
+Strong experience in managing server and application including Server Monitoring,
+Service Desk Support and Infrastructure (Linux, Windows & MacOS Server).
+Challenge variaty of task and skilled troubleshooter in IT field.
 
 ## :fontawesome-solid-briefcase: Professional Work Experience
 
@@ -18,16 +21,19 @@ Multilingual (English, Japanese, Malay) Techincal Support. Strong experience in 
 
 ### DXC Technology
 
-ITO Service Delivery Constultant (L3 Support)
+ITO Service Delivery Consultant (L3 Support)
 <span style="float: right;">Nov 2019 - Present</span>
 
 - Oversee system performance, configuration and repair of client servers.
 - Recorded system downtime and equipment inventory.
 - Planned and implemented Windows Server Update Service to client servers.
 - Managed all security incidents.
-- Created operations manuals, which standardized all procedures enabling rapid and comprehensive training of new staff and newly created operations.
-- Provided competent supervision and monitoring of change request and enforced compliance with change management policy.
-- Take part of RCA (Root Cause Analysis) meetings to find the cause of process problems, and update process manual if necessary.
+- Created operations manuals, which standardized all procedures enabling rapid and
+- comprehensive training of new staff and newly created operations.
+- Provided competent supervision and monitoring of
+  change request and enforced compliance with change management policy.
+- Take part of RCA (Root Cause Analysis) meetings to find
+  the cause of process problems, and update process manual if necessary.
 
 ### NTT Digital Business Solutions (fomerly Emerio Malaysia)
 
@@ -35,7 +41,9 @@ Team Lead cum System Support (DC Monitoring)
 <span style="float: right;">Feb 2018 - Nov 2019</span>
 
 - Server and network monitoring for data centers.
-- Operate the troubleshooting and performance management systems in order to facilitate the resolution of all issues with information systems, corresponding applications, databases, and the network.
+- Operate the troubleshooting and performance management systems in order to facilitate
+  the resolution of all issues with information systems, corresponding applications,
+  databases, and the network.
 - Handle server and network incidents based on defined process, procedures and SLA.
 - Incident Management and Problem Management
 - Identifying and solving problems and known errors

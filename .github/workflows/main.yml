@@ -5,12 +5,12 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
-    # paths:
-    #   - "contents/docs/*"
-    #   - "contents/mkdocs.yml"
+  # pull_request:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "contents/docs/*"
+  #     - "contents/mkdocs.yml"
 
 jobs:
   docs:
