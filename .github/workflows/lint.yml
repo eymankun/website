@@ -1,0 +1,24 @@
+---
+name: housekeeping
+
+on:
+  push:
+    branches:
+      - dev
+  pull_request:
+    branches:
+      - main
+    # paths:
+    #   - "contents/docs/*"
+    #   - "contents/mkdocs.yml"
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Lint Code Base
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          args: "**/*.md"
