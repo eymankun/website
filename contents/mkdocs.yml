@@ -13,7 +13,7 @@ nav:
 theme:
   name: material
   icon:
-    logo: fontawesome/solid/font
+    logo: fontawesome/solid/server
   features:
     - navigation.top
     - navigation.tabs
@@ -34,6 +34,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+plugins:
+  - macros
+
 markdown_extensions:
   - attr_list
   - pymdownx.details
@@ -50,3 +53,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/muhammad-aiman/
       name: Aiman on LinkedIn
+  person:
+    github_avatar: "https://avatars.githubusercontent.com/u/61777593"
+    name: "Muhammad Aiman Bin Abdul Jalil"
+    location: "Cyberjaya, Malaysia"
