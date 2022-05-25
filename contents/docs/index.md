@@ -1,6 +1,14 @@
+---
+title: About Me
+---
+
 <!-- markdownlint-disable MD033 -->
 
-# About Me
+<center>
+<img  style="width: 255px; hight: 255p; border-radius: 50%" src="https://avatars.githubusercontent.com/u/61777593?v=4"><br>
+Operation L3 Engineer I Wintel I Linux I IT Infra & Networking | Japanese N1
+
+</center>
 
 ## :fontawesome-solid-user-tie: Profile
 
@@ -14,6 +22,34 @@ Multilingual (English, Japanese, Malay) Techincal Support.
 Strong experience in managing server and application including Server Monitoring,
 Service Desk Support and Infrastructure (Linux, Windows & MacOS Server).
 Challenge variaty of task and skilled troubleshooter in IT field.
+
+## :fontawesome-solid-certificate: Skills & Certifications
+
+---
+
+### Top Skills
+
+- System Administration (Linux, Windwos Server, WSUS)
+- DNS, Networking
+- Troubleshooting (Wireshark)
+- Server and Network Monitoring (Zabbix)
+- Microsoft Azure, Amazon Web Services, Google Cloud Platform
+- Virtualization and Containers (VMWare, Docker)
+- Documentation, git workflows
+- Automation (Ansible, Python)
+
+### Key Roles Performed
+
+- System Monitoring (Datacenter Monitoring)
+- Technical Support
+- Team Leader
+- Trainer
+
+### Certifications
+
+- Information Technology Infrastructure Library (ITIL) Foundation
+- Microsoft Azure Fundamental AZ-900
+- Japanese Lanugage Proficiency Test (JLPT) N1
 
 ## :fontawesome-solid-briefcase: Professional Work Experience
 
@@ -61,39 +97,6 @@ In charge of server load balancer products & SSL-VPN device
 - Communicated with the vendor to discuss software and hardware quality and improvement.
 - Revised onsite maintenance procedure manual in Japanese.
 - Responsible to document software setup procedure and manual in Japanese.
-
-## :fontawesome-solid-certificate: Skills & Certifications
-
----
-
-### Top Skills
-
-- Linux
-- Windwos Server & WSUS
-- DNS
-- Networking
-- System Administration
-- Troubleshooting
-- Monitoring Tools (Zabbix)
-- Microsoft Azure
-- Virtualization
-
-<!-- |                           |                       |                 |
-| ------------------------- | --------------------- | --------------- |
-| Linux                     | Windwos Server & WSUS | DNS             |
-| Networking                | System Administration | Troubleshooting |
-| Monitoring Tools (Zabbix) | Microsoft Azure       | Virtualization  | -->
-
-### Key Roles Performed
-
-- System Monitoring (Datacenter Monitoring)
-- Technical Support
-
-### Certifications
-
-- Information Technology Infrastructure Library (ITIL) Foundation
-- Microsoft Azure Fundamental AZ-900
-- Japanese Lanugage Proficiency Test (JLPT) N1
 
 ## :fontawesome-solid-graduation-cap: Education
 
