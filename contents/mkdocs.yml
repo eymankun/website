@@ -2,10 +2,11 @@
 site_name: Muhammad Aiman Curriculum Vitae
 site_author: Muhammad Aiman
 site_description: Muhammad Aiman CV
-copyright: Copyright &copy; 2022 Muhammad Aiman
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> Muhammad Aiman
 
 nav:
   - About Me: index.md
+  - Personal Projects: inprogress.md
   - LinkedIn: https://www.linkedin.com/in/muhammad-aiman/" target="_blank
   - Github: https://www.github.com/eymankun/" target="_blank
 
@@ -20,11 +21,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: brown
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: brown
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -37,7 +42,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
-  generator: false
+  # generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://www.github.com/eymankun
