@@ -11,12 +11,15 @@
         "Abdul",
         "Jalil",
         "Kuala",
-        "Lumpur"
+        "Lumpur",
+        "Gitea",
+        "Zabbix",
+        "Wintel"
     ],
     "ignoreWords": [
-        "mkdocs", "fontawesome"
+        "mkdocs", "fontawesome", "homelab", "Selfhosted"
     ],
-    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\           {% .*%\\}", 
+    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\             {% .*%\\}", 
         "/^\\s*```[\\s\\S]*?^\\s*```/gm", 
         "^---[\\s\\S]*?---$"
     ]

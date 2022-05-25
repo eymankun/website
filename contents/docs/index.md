@@ -49,7 +49,7 @@ Challenge variaty of task and skilled troubleshooter in IT field.
 
 - Information Technology Infrastructure Library (ITIL) Foundation
 - Microsoft Azure Fundamental AZ-900
-- Japanese Lanugage Proficiency Test (JLPT) N1
+- Japanese Language Proficiency Test (JLPT) N1
 
 ## :fontawesome-solid-briefcase: Professional Work Experience
 

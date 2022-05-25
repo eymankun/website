@@ -23,7 +23,7 @@ using Gitea docker compose to self host git service for personal use.
 
 ## Selfhosted Continuous Integration platform
 
-using Drone CI as a platfrom of CI for personal use.
+using Drone CI as a platform of CI for personal use.
 
 ## Zabbix monitoring
 
