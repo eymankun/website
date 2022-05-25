@@ -1,13 +1,12 @@
-in progress..
-
 # Personal Project
+
+in progress...
 
 as hobby
 
 - homelab
 - cv using mkdocs
 - provision and maintain selfhosted homelab using ansible and terraform
--
 
 ## Personal Wiki
 
