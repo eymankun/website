@@ -5,7 +5,7 @@ title: About Me
 <!-- markdownlint-disable MD033 -->
 
 <center>
-<img  style="width: 255px; hight: 255p; border-radius: 50%" src="https://avatars.githubusercontent.com/u/61777593?v=4"><br>
+<img  style="width: 255px; hight: 255p; border-radius: 50%" src="{{config.extra.person.github_avatar}}"><br>
 Operation L3 Engineer I Wintel I Linux I IT Infra & Networking | Japanese N1
 
 </center>
@@ -14,14 +14,14 @@ Operation L3 Engineer I Wintel I Linux I IT Infra & Networking | Japanese N1
 
 ---
 
-Name: Muhammad Aiman Bin Abdul Jalil
+Name: {{config.extra.person.name}}
 
-Location: Cyberjaya, Malaysia
+Location: {{config.extra.person.location}}
 
-Multilingual (English, Japanese, Malay) Techincal Support.
+Multilingual (English, Japanese, Malay) Technical Support.
 Strong experience in managing server and application including Server Monitoring,
 Service Desk Support and Infrastructure (Linux, Windows & MacOS Server).
-Challenge variaty of task and skilled troubleshooter in IT field.
+Challenge variety of task and skilled troubleshooter in IT field.
 
 ## :fontawesome-solid-certificate: Skills & Certifications
 
@@ -58,14 +58,17 @@ Challenge variaty of task and skilled troubleshooter in IT field.
 ### DXC Technology
 
 ITO Service Delivery Consultant (L3 Support)
-<span style="float: right;">Nov 2019 - Present</span>
+
+<!-- <span style="float: right;">Nov 2019 - Present</span> -->
+
+Nov 2019 - Present
 
 - Oversee system performance, configuration and repair of client servers.
 - Recorded system downtime and equipment inventory.
 - Planned and implemented Windows Server Update Service to client servers.
 - Managed all security incidents.
 - Created operations manuals, which standardized all procedures enabling rapid and
-- comprehensive training of new staff and newly created operations.
+  comprehensive training of new staff and newly created operations.
 - Provided competent supervision and monitoring of
   change request and enforced compliance with change management policy.
 - Take part of RCA (Root Cause Analysis) meetings to find
@@ -74,22 +77,28 @@ ITO Service Delivery Consultant (L3 Support)
 ### NTT Digital Business Solutions (fomerly Emerio Malaysia)
 
 Team Lead cum System Support (DC Monitoring)
-<span style="float: right;">Feb 2018 - Nov 2019</span>
+
+<!-- <span style="float: right;">Feb 2018 - Nov 2019</span> -->
+
+Feb 2018 - Nov 2019
 
 - Server and network monitoring for data centers.
 - Operate the troubleshooting and performance management systems in order to facilitate
   the resolution of all issues with information systems, corresponding applications,
   databases, and the network.
 - Handle server and network incidents based on defined process, procedures and SLA.
-- Incident Management and Problem Management
+- Incident Management and Problem Management.
 - Identifying and solving problems and known errors
   before incidents occur in the first place.
 - Deal with call and emails in Japanese and English.
 
 ### Hitachi Solutions Ltd
 
-In charge of server load balancer products & SSL-VPN device
-<span style="float: right;">April 2016 - Jan 2018</span>
+In charge of server load balancer & SSL-VPN products
+
+<!-- <span style="float: right;">April 2016 - Jan 2018</span> -->
+
+April 2016 - Jan 2018
 
 - conducted L3 technical support for the network device.
 - Modeled and performed software testing to check compatibility issues and bug.
