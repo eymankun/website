@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Use the following command to establish a local server:
 
 ```bash
-mkdocs serve
+mkdocs serve -f contents/mkdocs.yml
 ```
 
 Then open the local site in any browser at the URL `http://127.0.0.1:8000`.

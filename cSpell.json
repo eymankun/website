@@ -14,12 +14,18 @@
         "Lumpur",
         "Gitea",
         "Zabbix",
-        "Wintel"
+        "Wintel",
+        "Sekolah",
+        "Menengah",
+        "Sains",
+        "Sijil",
+        "Kuantan",
+        "Pelajaran"
     ],
     "ignoreWords": [
         "mkdocs", "fontawesome", "homelab", "Selfhosted"
     ],
-    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\             {% .*%\\}", 
+    "ignoreRegExpList": ["\\((.*)\\)", "```[a-z]*\n[\\s\\S]*?\n```", "\\`([^\\`].*?)\\`", "\\              {% .*%\\}", 
         "/^\\s*```[\\s\\S]*?^\\s*```/gm", 
         "^---[\\s\\S]*?---$"
     ]

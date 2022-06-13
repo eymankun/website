@@ -23,34 +23,6 @@ Strong experience in managing server and application including Server Monitoring
 Service Desk Support and Infrastructure (Linux, Windows & MacOS Server).
 Challenge variety of task and skilled troubleshooter in IT field.
 
-## :fontawesome-solid-certificate: Skills & Certifications
-
----
-
-### Top Skills
-
-- System Administration (Linux, Windwos Server, WSUS)
-- DNS, Networking
-- Troubleshooting (Wireshark)
-- Server and Network Monitoring (Zabbix)
-- Microsoft Azure, Amazon Web Services, Google Cloud Platform
-- Virtualization and Containers (VMWare, Docker)
-- Documentation, git workflows
-- Automation (Ansible, Python)
-
-### Key Roles Performed
-
-- System Monitoring (Datacenter Monitoring)
-- Technical Support
-- Team Leader
-- Trainer
-
-### Certifications
-
-- Information Technology Infrastructure Library (ITIL) Foundation
-- Microsoft Azure Fundamental AZ-900
-- Japanese Language Proficiency Test (JLPT) N1
-
 ## :fontawesome-solid-briefcase: Professional Work Experience
 
 ---
@@ -100,12 +72,47 @@ In charge of server load balancer & SSL-VPN products
 
 April 2016 - Jan 2018
 
-- conducted L3 technical support for the network device.
+- Conducted L3 technical support for the network device.
 - Modeled and performed software testing to check compatibility issues and bug.
 - Provide software troubleshooting upon customer request.
 - Communicated with the vendor to discuss software and hardware quality and improvement.
 - Revised onsite maintenance procedure manual in Japanese.
 - Responsible to document software setup procedure and manual in Japanese.
+
+## :fontawesome-solid-certificate: Skills & Certifications
+
+---
+
+### Top Skills
+
+- System Administration (Linux, Windwos Server, WSUS)
+- DNS, Networking, Troubleshooting, Packet Analysis (Wireshark), TCP/IP
+- Network Appliances (Server Load Balancer, VPN devices)
+- Server and Network Monitoring (Zabbix)
+- Cloud Services (Microsoft Azure, Amazon Web Services, Google Cloud Platform)
+- Virtualization and Containers (VMWare, Docker)
+- Documentation, git workflows
+- Automation (Ansible, Python)
+- Microsoft Office (Word, Excel, Powerpoint, Outlook)
+
+### Language Skills
+
+- Japanese - Full Professional Proficiency
+- English - Full Professional Proficiency
+- Malay - Native Language
+
+### Key Roles Performed
+
+- System Monitoring (Datacenter Monitoring)
+- Technical Support
+- Team Leader
+- Trainer
+
+### Certifications
+
+- Information Technology Infrastructure Library (ITIL) Foundation
+- Microsoft Azure Fundamental AZ-900
+- Japanese Language Proficiency Test (JLPT) N1
 
 ## :fontawesome-solid-graduation-cap: Education
 
@@ -121,10 +128,7 @@ Electronics and Computer Science (Bachalor's Degree).
 Japanese language foundation program.
 <span style="float: right;">Jan 2009 - March 2011</span>
 
-## :fontawesome-solid-language: Languages
+<!-- ### Sekolah Menengah Sains Sultan Haji Ahmad Shah, Kuantan
 
----
-
-- Japanese - Full Professional Proficiency
-- English - Full Professional Proficiency
-- Malay - Native Language
+Sijil Pelajaran Malaysia
+<span style="float: right;">Jan 2004 - Dec 2008</span> -->
